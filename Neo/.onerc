@@ -1,0 +1,11 @@
+{
+  "paths": {
+    "contracts": "one/contracts",
+    "generated": "one/generated"
+  },
+  "codegen": {
+    "language": "typescript",
+    "framework": "react",
+    "browser": false
+  }
+}
